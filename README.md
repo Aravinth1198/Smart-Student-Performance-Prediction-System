@@ -258,3 +258,72 @@ Button generates event
 Callback function executes
         ↓
 Python processing starts
+```
+
+## 13. Outcomes
+
+* Dataset (csv file)
+* Data Preprocessing code
+* Trained ML model
+* Accuracy model
+* Prediction function
+* Model saved file (.pkl)
+
+## 14. Traditional Programming vs ML
+
+| Traditional Programming    | Smart Student Project                       |
+| -------------------------- | ------------------------------------------- |
+| Rules are wriiten manually | Identify student performance problem        |
+| output=logic+input         | output=model+input                          |
+| Fixed Logic                | Adaptive Learning                           |
+
+## 15.  ML workflow
+
+```text
+    Data collection
+        ↓
+    Data Preprocessing
+        ↓
+    Feature selection
+        ↓
+    Model training
+        ↓
+    Model Evaluation
+        ↓
+    prediction
+```
+
+## 14. Problem Type
+
+### 14.1  Classification Problem
+Output categories:
+*  Excellent
+*  good
+*  Average
+*  At Risk
+
+### 14.2  Regression Problem
+Output = Performance score(0-100)
+
+
+##  15. Model Selection
+Algorithm Introduced
+*  Logistic Regression(Primary)
+*  Decision Tree(Optional)
+*  Random Forest(Advanced)
+
+
+
+## 16. Model Evaluation
+
+* Confusion Matrix
+
+
+
+## 17. Improving the Model
+
+*  Increased dataset size
+*  Feature selection
+*  Try Different algorithms
+*  Tune Parameters
+  
