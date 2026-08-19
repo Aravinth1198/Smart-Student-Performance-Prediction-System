@@ -20,7 +20,7 @@ class Dashboard:
         self.attendance_entry.delete(0, tk.END)
         self.study_entry.delete(0, tk.END)
         self.internal_entry.delete(0, tk.END)
-        sealf.assignment_entry.delete(0, tk.END)
+        self.assignment_entry.delete(0, tk.END)
         self.previous_entry.delete(0, tk.END)
 
         self.prediction_label.config(text="--")
