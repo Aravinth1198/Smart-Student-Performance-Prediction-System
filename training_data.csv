@@ -1,0 +1,31 @@
+attendance,study_hours,internal_marks,assignment_completion,previous_score,performance
+95,6,92,100,94,Excellent
+98,7,95,100,96,Excellent
+91,5,88,95,90,Excellent
+94,6,90,92,89,Excellent
+89,5,86,94,87,Excellent
+86,5,82,90,84,Very Good
+84,4,80,88,82,Very Good
+88,5,85,91,86,Very Good
+82,4,78,85,80,Very Good
+79,4,76,82,78,Very Good
+80,3,72,80,75,Good
+76,3,70,78,72,Good
+74,4,68,75,70,Good
+72,3,65,70,68,Good
+70,3,67,74,66,Good
+68,2,60,65,62,Good
+65,3,58,68,60,Good
+62,2,55,60,58,Good
+59,2,52,58,55,Good
+57,3,50,55,53,Good
+55,2,45,50,48,High Risk
+52,2,42,48,45,High Risk
+50,1,40,45,42,High Risk
+48,2,38,40,40,High Risk
+45,1,35,38,37,High Risk
+42,1,32,35,34,High Risk
+40,1,30,32,30,High Risk
+38,2,28,30,28,High Risk
+35,1,25,25,25,High Risk
+30,1,20,20,22,High Risk
