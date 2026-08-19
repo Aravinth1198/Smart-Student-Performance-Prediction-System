@@ -91,16 +91,8 @@ The application should be:
 * Secure with respect to student data
 * Easy to test
 
-### 6.3 Identify the User
 
-Primary users may include:
-
-* Faculty
-* Academic Coordinators
-* Mentors
-* Students
-
-### 6.4 User Requirement
+### 6.3 User Requirement
 
 The user should be able to:
 
@@ -110,7 +102,7 @@ The user should be able to:
 * Understand the student's risk level.
 * Receive improvement recommendations.
 
-### 6.5 Identify System Inputs
+### 6.4 Identify System Inputs
 
 The initial system can use:
 
@@ -122,21 +114,19 @@ The initial system can use:
 * Assignment Completion Percentage
 * Previous Academic Performance
 
-### 6.6 Identify System Outputs
+### 6.5 Identify System Outputs
 
-#### 6.6.1 Performance Prediction
+#### 6.5.1 Prediction score/probability
 
-* Excellent
-* Good
+
+
+#### 6.5.2  Risk Level
+
+* Safe
 * Average
 * At Risk
-
-#### 6.6.2 Additional Output
-
-* Prediction score/probability
-* Risk level
-* Key factors affecting performance
-* Recommended actions
+  
+ #### 6.5.3 Recommended actions
 
 ### Example
 
