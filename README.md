@@ -262,12 +262,11 @@ Python processing starts
 
 ## 13. Outcomes
 
-* Dataset (csv file)
-* Data Preprocessing code
+* Maintains a separate Dataset (csv file)
+* Data Preprocessing 
 * Trained ML model
-* Accuracy model
 * Prediction function
-* Model saved file (.pkl)
+* Saved Model  file (.pkl)
 
 ## 14. Traditional Programming vs ML
 
