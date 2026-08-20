@@ -313,13 +313,13 @@ Algorithm Introduced
 *  SVM(Advanced)
 
 
-## 16. Model Evaluation
+### 15.1. Model Evaluation
 
 * Confusion Matrix
 
 
 
-## 17. Improving the Model
+### 15.2. Improving the Model
 
 *  Increased dataset size
 *  Feature selection
