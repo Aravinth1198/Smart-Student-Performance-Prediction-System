@@ -1,0 +1,5 @@
+student_id,student_name,attendance,study_hours,internal_marks,assignment_completion,previous_score,prediction,risk
+005,Aravinth,99.0,4.0,65.0,100.0,70.0,Good,Medium Risk
+005,aravinth,99.0,4.0,75.0,100.0,70.0,Good,Medium Risk
+005,arav,99.0,4.0,65.0,100.0,70.0,Good,Medium Risk
+005,arav,90.0,4.0,89.0,100.0,78.0,Excellent,Low Risk
