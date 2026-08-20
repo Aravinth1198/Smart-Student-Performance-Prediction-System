@@ -3,3 +3,14 @@ student_id,student_name,attendance,study_hours,internal_marks,assignment_complet
 005,aravinth,99.0,4.0,75.0,100.0,70.0,Good,Medium Risk
 005,arav,99.0,4.0,65.0,100.0,70.0,Good,Medium Risk
 005,arav,90.0,4.0,89.0,100.0,78.0,Excellent,Low Risk
+123,arj,90.0,5.0,80.0,99.0,69.0,Very Good,Low Risk
+123,arj,90.0,5.0,80.0,99.0,69.0,Very Good,Low Risk
+2345,ar,67.0,5.0,99.0,100.0,99.0,Excellent,Low Risk
+1234,arun,88.0,9.0,88.0,99.0,89.0,Excellent,Low Risk
+1234,arun,88.0,9.0,88.0,99.0,89.0,Excellent,Low Risk
+234,arj,90.0,9.0,99.0,100.0,99.0,Excellent,Low Risk
+234,arj,90.0,9.0,99.0,100.0,99.0,Excellent,Low Risk
+123,arj,78.0,9.0,89.0,67.0,89.0,Excellent,Low Risk
+123,arj,78.0,9.0,89.0,67.0,89.0,Excellent,Low Risk
+123,arj,78.0,9.0,89.0,67.0,89.0,Excellent,Low Risk
+0006,arjhun,90.0,9.0,99.0,99.0,99.0,Excellent,Low Risk

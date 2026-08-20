@@ -3,7 +3,7 @@ import os
 
 
 N8N_WEBHOOK_URL = os.getenv("N8N_HIGH_RISK_WEBHOOK",
-    "https://arjhun0216.app.n8n.cloud/webhook-test/Smart_Student_Prediction")
+    "https://arjhun0216.app.n8n.cloud/webhook/incoming-message")
 
 def send_student_details(name, student_id, attendance, study_hours, internal_marks, assignment, previous_score, result, risk , recommendation):
     data = {
@@ -20,6 +20,7 @@ def send_student_details(name, student_id, attendance, study_hours, internal_mar
     }
 
     try:
+        print("Sending data to n8n")
         response = requests.post(N8N_WEBHOOK_URL, json=data)
         response.raise_for_status()
 
