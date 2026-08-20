@@ -308,10 +308,9 @@ Output = Performance score(0-100)
 
 ##  15. Model Selection
 Algorithm Introduced
-*  Logistic Regression(Primary)
-*  Decision Tree(Optional)
-*  Random Forest(Advanced)
-
+*  Random Forest(Primary)
+*  Logistic Regression(Optional)
+*  SVM(Advanced)
 
 
 ## 16. Model Evaluation
